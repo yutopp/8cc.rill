@@ -1,0 +1,7 @@
+*.bc
+*.o
+*.eir
+
+8cc
+elc
+hello.out
